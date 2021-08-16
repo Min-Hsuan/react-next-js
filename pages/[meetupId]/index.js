@@ -9,7 +9,7 @@ function MeetupDetailPage(props) {
     <Fragment>
       <Head>
         <title>{title}</title>
-        <meta name='description' content={description} />
+        <meta name="description" content={description} />
       </Head>
       <MeetupDetail
         id={id}
